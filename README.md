@@ -1,6 +1,6 @@
 # Pemodelan Peluang Kebangkrutan Dana Tabarru'
 
-Skripsi — analisis ruin probability pada dana tabarru' asuransi jiwa syariah menggunakan kerangka Cramér–Lundberg.
+Skripsi — analisis ruin probability pada dana tabarru' asuransi jiwa syariah menggunakan perluasan model Cramér–Lundberg.
 
 ## Alur Analisis
 1. `Frekuensi_Klaim.ipynb` — estimasi distribusi Negative Binomial untuk frekuensi klaim
